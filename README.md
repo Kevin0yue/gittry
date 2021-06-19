@@ -1,0 +1,2 @@
+# gittry
+study git now
